@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **IoT Project**
 
-- 🌱 I’m currently learning **TypeScript, React**
+- 🌱 I’m currently learning **Django, DRF**
 
-- 👯 I’m looking to collaborate on **Blockchain & Node.js Projects**
+- 👯 I’m looking to collaborate on **Blockchain & Node.js/Django/Three.js/R3F Projects**
 
 - 👨‍💻 All of my projects are available at [https://faisalimran.com](https://faisalimran.com)
 
