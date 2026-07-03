@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Faisal</h1>
-<h3 align="center">A passionate game developer from Pakistan</h3>
+## Hi there 👋
 
-- 🔭 I’m currently working on **IoT Project**
+I'm a Full-Stack Software Engineer passionate about building scalable cloud applications and solving complex engineering problems.
 
-- 🌱 I’m currently learning **Django, DRF**
+* 💻 **Backend:** Node.js, Express, Python, Django, Django REST Framework
+* ⚛️ **Frontend:** React, Next.js, TypeScript
+* ☁️ **Cloud & DevOps:** AWS (ECS, EC2, S3, CloudFront, ECR), Docker, Terraform, CI/CD
+* ⚡ **Distributed Systems:** Celery, RabbitMQ, background job processing
+* 🦷 **3D Engineering:** Three.js, React Three Fiber, Blender, STL/OBJ processing, computational geometry, Unity3d
+* 🔐 **Architecture:** REST APIs, OAuth 2.0, RBAC, system design, third-party integrations
 
-- 👯 I’m looking to collaborate on **Blockchain & Node.js/Django/Three.js/R3F Projects**
-
-- 👨‍💻 All of my projects are available at [https://faisalimran.com](https://faisalimran.com)
-
-- 💬 Ask me about **Game Development**
+I'm particularly interested in backend architecture, cloud infrastructure, 3D visualization, and building software that scales. I enjoy solving challenging engineering problems by designing reliable, high-performance systems, automating workflows, and optimizing scalable architectures. I'm also passionate about mentoring engineers, collaborating with teams, and continuously learning new technologies to build high-quality software.
 
 - 📫 How to reach me **faisalimran.uos@gmail.com**
 
